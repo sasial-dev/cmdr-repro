@@ -1,0 +1,12 @@
+# Project place file
+/cmdr-repro.rbxlx
+
+# Roblox Studio lock files
+/*.rbxlx.lock
+/*.rbxl.lock
+
+# Wally
+Packages
+
+# Luau LSP
+sourcemap.json
